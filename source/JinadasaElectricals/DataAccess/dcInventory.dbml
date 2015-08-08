@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="BarcodeGenarator" Class="dcInventoryDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=pahan-pc;Initial Catalog=BarcodeGenarator;User ID=sa" SettingsObjectName="BarcodeGenarator.Properties.Settings" SettingsPropertyName="BarcodeGenaratorConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.ItemCategories" Member="ItemCategories">
+    <Type Name="ItemCategory">
+      <Column Name="ItemCategoryID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="ItemCategoryCode" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="ItemCategoryDescription" Type="System.String" DbType="NVarChar(2000)" CanBeNull="true" />
+      <Column Name="DateCreated" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="DateModified" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="CreatedBy" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ModifiedBy" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="IsDeleted" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="PCCreated" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="PCModified" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="ItemCategory_Item" Member="Items" ThisKey="ItemCategoryID" OtherKey="ItemCategoryID" Type="Item" />
+    </Type>
+  </Table>
+  <Table Name="dbo.UserProfile" Member="UserProfiles">
+    <Type Name="UserProfile">
+      <Column Name="UserProfileId" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="userId" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Column Name="Password" Type="System.String" DbType="VarChar(200)" CanBeNull="true" />
+      <Column Name="DateCreated" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="DateModified" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="CreatedBy" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ModifiedBy" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="TimeStamp" Type="System.Data.Linq.Binary" DbType="rowversion" CanBeNull="true" IsVersion="true" />
+      <Column Name="IsDeleted" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="IsManger" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="FullName" Type="System.String" DbType="VarChar(1000)" CanBeNull="true" />
+      <Column Name="PCCreated" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="PCModified" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="UserProfile_Item" Member="Items" ThisKey="UserProfileId" OtherKey="CreatedBy" Type="Item" />
+      <Association Name="UserProfile_Item1" Member="Items1" ThisKey="UserProfileId" OtherKey="ModifiedBy" Type="Item" />
+    </Type>
+  </Table>
+  <Table Name="dbo.PcRegistration" Member="PcRegistrations">
+    <Type Name="PcRegistration">
+      <Column Name="PcRegistrationID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="MachineCode" Type="System.String" DbType="VarChar(500) NOT NULL" CanBeNull="false" />
+      <Column Name="Description" Type="System.String" DbType="NVarChar(2000) NOT NULL" CanBeNull="false" />
+      <Column Name="DateCreated" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="DateModified" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="CreatedBy" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ModifiedBy" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="TimeStamp" Type="System.Data.Linq.Binary" DbType="rowversion NOT NULL" CanBeNull="false" IsVersion="true" />
+      <Column Name="IsDeleted" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Item" Member="Items">
+    <Type Name="Item">
+      <Column Name="ItemID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="ItemCategoryID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ItemCode" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="ItemDescription" Type="System.String" DbType="NVarChar(2000)" CanBeNull="true" />
+      <Column Name="PartNo" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="PackDate" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="DateCreated" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="DateModified" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="CreatedBy" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ModifiedBy" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="IsDeleted" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="PCCreated" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="PCModified" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="ItemCategory_Item" Member="ItemCategory" ThisKey="ItemCategoryID" OtherKey="ItemCategoryID" Type="ItemCategory" IsForeignKey="true" />
+      <Association Name="UserProfile_Item" Member="UserProfile" ThisKey="CreatedBy" OtherKey="UserProfileId" Type="UserProfile" IsForeignKey="true" />
+      <Association Name="UserProfile_Item1" Member="UserProfile1" ThisKey="ModifiedBy" OtherKey="UserProfileId" Type="UserProfile" IsForeignKey="true" />
+    </Type>
+  </Table>
+</Database>

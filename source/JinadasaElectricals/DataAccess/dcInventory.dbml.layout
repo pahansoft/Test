@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="dcInventory">
+  <DataContextMoniker Name="/dcInventoryDataContext" />
+  <nestedChildShapes>
+    <classShape Id="388339c7-cbbc-42de-aaac-101bb8138437" absoluteBounds="0.75, 5.25, 2, 2.7324039713541666">
+      <DataClassMoniker Name="/dcInventoryDataContext/ItemCategory" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9b9bb2b4-b5b6-4d48-bef4-968577c52dbc" absoluteBounds="0.765, 5.71, 1.9700000000000002, 2.1724039713541665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="10420f07-f84d-4194-a259-e187d9041f7a" absoluteBounds="0.75, 1, 2, 3.3093082682291666">
+      <DataClassMoniker Name="/dcInventoryDataContext/UserProfile" />
+      <nestedChildShapes>
+        <elementListCompartment Id="3479283d-ffe8-4232-a433-255235a2f6aa" absoluteBounds="0.765, 1.46, 1.9700000000000002, 2.7493082682291665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="a848a073-1a09-435e-b585-cb8f99c3e3e6" absoluteBounds="7.75, 3.625, 2, 2.5401025390625">
+      <DataClassMoniker Name="/dcInventoryDataContext/PcRegistration" />
+      <nestedChildShapes>
+        <elementListCompartment Id="dda4ba3a-219b-4db5-8d0e-fa1b52da4296" absoluteBounds="7.765, 4.085, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="621cd6d3-daa4-437e-b7e9-d82447a710c2" absoluteBounds="4, 1.875, 2, 3.3093082682291666">
+      <DataClassMoniker Name="/dcInventoryDataContext/Item" />
+      <nestedChildShapes>
+        <elementListCompartment Id="04a53e37-e98d-40cb-8f43-6489f0a9f3d3" absoluteBounds="4.015, 2.335, 1.9700000000000002, 2.7493082682291665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.75 : 6.61620198567708); (5 : 6.61620198567708); (5 : 5.18430826822917)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/dcInventoryDataContext/ItemCategory/ItemCategory_Item" />
+      <nodes>
+        <classShapeMoniker Id="388339c7-cbbc-42de-aaac-101bb8138437" />
+        <classShapeMoniker Id="621cd6d3-daa4-437e-b7e9-d82447a710c2" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 3.09215413411458); (4 : 3.09215413411458)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/dcInventoryDataContext/UserProfile/UserProfile_Item" />
+      <nodes>
+        <classShapeMoniker Id="10420f07-f84d-4194-a259-e187d9041f7a" />
+        <classShapeMoniker Id="621cd6d3-daa4-437e-b7e9-d82447a710c2" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 2.42107706705729); (4 : 2.42107706705729)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/dcInventoryDataContext/UserProfile/UserProfile_Item1" />
+      <nodes>
+        <classShapeMoniker Id="10420f07-f84d-4194-a259-e187d9041f7a" />
+        <classShapeMoniker Id="621cd6d3-daa4-437e-b7e9-d82447a710c2" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

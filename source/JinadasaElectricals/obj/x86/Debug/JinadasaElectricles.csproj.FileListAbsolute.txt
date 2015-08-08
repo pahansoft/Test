@@ -1,0 +1,139 @@
+D:\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmDebtorPayments.resources
+D:\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmCusaPayments.resources
+D:\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmBaseBlue.resources
+D:\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmBalanceSheet.resources
+D:\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmBill.resources
+D:\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmCashFlowReport.resources
+D:\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmChequeReceivedData.resources
+D:\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmCreditBillLedger.resources
+D:\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmCustSalesReport.resources
+D:\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmGRN.resources
+D:\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmIncomeStatement.resources
+D:\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmItemCategory.resources
+D:\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmItemManager.resources
+D:\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmItemSubCategory.resources
+D:\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmMainManu.resources
+D:\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmPurchOrder.resources
+D:\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmQuotation.resources
+D:\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmQuotationReport.resources
+D:\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmSalesDayBook.resources
+D:\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmSalesReport.resources
+D:\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmServiceRecord.resources
+D:\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmStockAudit.resources
+D:\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmStockAuditing.resources
+D:\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmSupplierPaymentReport.resources
+D:\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmTmpNoteAccBinding.resources
+D:\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmWarranty.resources
+D:\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.MainForm.resources
+D:\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmChangeItemPrice.resources
+D:\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmDayEnd.resources
+D:\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmExpence.resources
+D:\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmExpenceCategory.resources
+D:\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmExpencesReport.resources
+D:\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmHelp.resources
+D:\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmItemSalesSummery.resources
+D:\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmPurchasingReport.resources
+D:\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmSalesReturn.resources
+D:\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmSalesSummery.resources
+D:\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmTrialBalance.resources
+D:\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmBarcodePrint.resources
+D:\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmCustomer.resources
+D:\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmInvoice.resources
+D:\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmProcessing.resources
+D:\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmRegisterPC.resources
+D:\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmGreeting.resources
+D:\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmReportViewer.resources
+D:\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmSession.resources
+D:\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmSessionSummery.resources
+D:\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmSupplier.resources
+D:\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmChangePassword.resources
+D:\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmStatus.resources
+D:\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.Login.resources
+D:\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.NewUser.resources
+D:\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.Properties.Resources.resources
+D:\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.csproj.GenerateResource.Cache
+D:\Jinadasa\JinadasaElectricals\bin\Debug\JinadasaElectricles.exe.config
+D:\Jinadasa\JinadasaElectricals\bin\Debug\JinadasaElectricles.exe
+D:\Jinadasa\JinadasaElectricals\bin\Debug\JinadasaElectricles.pdb
+D:\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.exe
+D:\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.pdb
+C:\Users\Pahan\Desktop\Jinadasa\Jinadasa\JinadasaElectricals\bin\Debug\JinadasaElectricles.exe.config
+C:\Users\Pahan\Desktop\Jinadasa\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.exe
+C:\Users\Pahan\Desktop\Jinadasa\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.pdb
+C:\Users\Pahan\Desktop\Jinadasa\Jinadasa\JinadasaElectricals\bin\Debug\JinadasaElectricles.exe
+C:\Users\Pahan\Desktop\Jinadasa\Jinadasa\JinadasaElectricals\bin\Debug\JinadasaElectricles.pdb
+C:\Users\Pahan\Desktop\Jinadasa\Jinadasa\JinadasaElectricals\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Pahan\Desktop\Jinadasa\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmDebtorPayments.resources
+C:\Users\Pahan\Desktop\Jinadasa\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmCusaPayments.resources
+C:\Users\Pahan\Desktop\Jinadasa\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmBaseBlue.resources
+C:\Users\Pahan\Desktop\Jinadasa\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmBalanceSheet.resources
+C:\Users\Pahan\Desktop\Jinadasa\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmBill.resources
+C:\Users\Pahan\Desktop\Jinadasa\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmCashFlowReport.resources
+C:\Users\Pahan\Desktop\Jinadasa\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmChequeReceivedData.resources
+C:\Users\Pahan\Desktop\Jinadasa\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmCreditBillLedger.resources
+C:\Users\Pahan\Desktop\Jinadasa\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmCustSalesReport.resources
+C:\Users\Pahan\Desktop\Jinadasa\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmGRN.resources
+C:\Users\Pahan\Desktop\Jinadasa\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmIncomeStatement.resources
+C:\Users\Pahan\Desktop\Jinadasa\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmItemCategory.resources
+C:\Users\Pahan\Desktop\Jinadasa\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmItemManager.resources
+C:\Users\Pahan\Desktop\Jinadasa\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmItemSubCategory.resources
+C:\Users\Pahan\Desktop\Jinadasa\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmMainManu.resources
+C:\Users\Pahan\Desktop\Jinadasa\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmPurchOrder.resources
+C:\Users\Pahan\Desktop\Jinadasa\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmQuotation.resources
+C:\Users\Pahan\Desktop\Jinadasa\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmQuotationReport.resources
+C:\Users\Pahan\Desktop\Jinadasa\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmSalesDayBook.resources
+C:\Users\Pahan\Desktop\Jinadasa\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmSalesReport.resources
+C:\Users\Pahan\Desktop\Jinadasa\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmServiceRecord.resources
+C:\Users\Pahan\Desktop\Jinadasa\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmStockAudit.resources
+C:\Users\Pahan\Desktop\Jinadasa\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmStockAuditing.resources
+C:\Users\Pahan\Desktop\Jinadasa\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmSupplierPaymentReport.resources
+C:\Users\Pahan\Desktop\Jinadasa\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmTmpNoteAccBinding.resources
+C:\Users\Pahan\Desktop\Jinadasa\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmWarranty.resources
+C:\Users\Pahan\Desktop\Jinadasa\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.MainForm.resources
+C:\Users\Pahan\Desktop\Jinadasa\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmChangeItemPrice.resources
+C:\Users\Pahan\Desktop\Jinadasa\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmDayEnd.resources
+C:\Users\Pahan\Desktop\Jinadasa\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmExpence.resources
+C:\Users\Pahan\Desktop\Jinadasa\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmExpenceCategory.resources
+C:\Users\Pahan\Desktop\Jinadasa\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmExpencesReport.resources
+C:\Users\Pahan\Desktop\Jinadasa\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmHelp.resources
+C:\Users\Pahan\Desktop\Jinadasa\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmItemSalesSummery.resources
+C:\Users\Pahan\Desktop\Jinadasa\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmPurchasingReport.resources
+C:\Users\Pahan\Desktop\Jinadasa\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmSalesReturn.resources
+C:\Users\Pahan\Desktop\Jinadasa\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmSalesSummery.resources
+C:\Users\Pahan\Desktop\Jinadasa\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmTrialBalance.resources
+C:\Users\Pahan\Desktop\Jinadasa\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmBarcodePrint.resources
+C:\Users\Pahan\Desktop\Jinadasa\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmCustomer.resources
+C:\Users\Pahan\Desktop\Jinadasa\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmInvoice.resources
+C:\Users\Pahan\Desktop\Jinadasa\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmProcessing.resources
+C:\Users\Pahan\Desktop\Jinadasa\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmRegisterPC.resources
+C:\Users\Pahan\Desktop\Jinadasa\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmGreeting.resources
+C:\Users\Pahan\Desktop\Jinadasa\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmReportViewer.resources
+C:\Users\Pahan\Desktop\Jinadasa\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmSession.resources
+C:\Users\Pahan\Desktop\Jinadasa\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmSessionSummery.resources
+C:\Users\Pahan\Desktop\Jinadasa\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmSupplier.resources
+C:\Users\Pahan\Desktop\Jinadasa\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmChangePassword.resources
+C:\Users\Pahan\Desktop\Jinadasa\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmStatus.resources
+C:\Users\Pahan\Desktop\Jinadasa\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.Login.resources
+C:\Users\Pahan\Desktop\Jinadasa\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.NewUser.resources
+C:\Users\Pahan\Desktop\Jinadasa\Jinadasa\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.Properties.Resources.resources
+C:\Users\Pahan\Desktop\Jinadasa\Jinadasa\JinadasaElectricals\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Pahan\Desktop\Jinadasa\Jinadasa\JinadasaElectricals\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Development\PAHANSOFT\C#\Barcode Generator\source\JinadasaElectricals\bin\Debug\JinadasaElectricles.exe.config
+D:\Development\PAHANSOFT\C#\Barcode Generator\source\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.exe
+D:\Development\PAHANSOFT\C#\Barcode Generator\source\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.pdb
+D:\Development\PAHANSOFT\C#\Barcode Generator\source\JinadasaElectricals\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Development\PAHANSOFT\C#\Barcode Generator\source\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmBaseBlue.resources
+D:\Development\PAHANSOFT\C#\Barcode Generator\source\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmItemCategory.resources
+D:\Development\PAHANSOFT\C#\Barcode Generator\source\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmItemManager.resources
+D:\Development\PAHANSOFT\C#\Barcode Generator\source\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmMainManu.resources
+D:\Development\PAHANSOFT\C#\Barcode Generator\source\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmProcessing.resources
+D:\Development\PAHANSOFT\C#\Barcode Generator\source\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmRegisterPC.resources
+D:\Development\PAHANSOFT\C#\Barcode Generator\source\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmReportViewer.resources
+D:\Development\PAHANSOFT\C#\Barcode Generator\source\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.frmBarcodePrint.resources
+D:\Development\PAHANSOFT\C#\Barcode Generator\source\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.Login.resources
+D:\Development\PAHANSOFT\C#\Barcode Generator\source\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.NewUser.resources
+D:\Development\PAHANSOFT\C#\Barcode Generator\source\JinadasaElectricals\obj\x86\Debug\JinadasaElectricles.Properties.Resources.resources
+D:\Development\PAHANSOFT\C#\Barcode Generator\source\JinadasaElectricals\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Development\PAHANSOFT\C#\Barcode Generator\source\JinadasaElectricals\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Development\PAHANSOFT\C#\Barcode Generator\source\JinadasaElectricals\bin\Debug\JinadasaElectricles.exe
+D:\Development\PAHANSOFT\C#\Barcode Generator\source\JinadasaElectricals\bin\Debug\JinadasaElectricles.pdb

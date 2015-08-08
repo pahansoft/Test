@@ -1,0 +1,28 @@
+C:\Development\UpToDate\ChilliesApplication\GenCode128\bin\Debug\GenCode128.dll
+C:\Development\UpToDate\ChilliesApplication\GenCode128\bin\Debug\GenCode128.pdb
+C:\Development\UpToDate\ChilliesApplication\GenCode128\obj\Debug\ResolveAssemblyReference.cache
+C:\Development\UpToDate\ChilliesApplication\GenCode128\obj\Debug\GenCode128.dll
+C:\Development\UpToDate\ChilliesApplication\GenCode128\obj\Debug\GenCode128.pdb
+E:\ChilliesApplication\GenCode128\bin\Debug\GenCode128.dll
+E:\ChilliesApplication\GenCode128\bin\Debug\GenCode128.pdb
+E:\ChilliesApplication\GenCode128\obj\Debug\ResolveAssemblyReference.cache
+E:\ChilliesApplication\GenCode128\obj\Debug\GenCode128.dll
+E:\ChilliesApplication\GenCode128\obj\Debug\GenCode128.pdb
+G:\ChilliesApplication\GenCode128\bin\Debug\GenCode128.dll
+G:\ChilliesApplication\GenCode128\bin\Debug\GenCode128.pdb
+G:\ChilliesApplication\GenCode128\obj\Debug\ResolveAssemblyReference.cache
+G:\ChilliesApplication\GenCode128\obj\Debug\GenCode128.dll
+G:\ChilliesApplication\GenCode128\obj\Debug\GenCode128.pdb
+C:\Development\13_05-2012\ChilliesApplication\GenCode128\bin\Debug\GenCode128.dll
+C:\Development\13_05-2012\ChilliesApplication\GenCode128\bin\Debug\GenCode128.pdb
+C:\Development\13_05-2012\ChilliesApplication\GenCode128\obj\Debug\ResolveAssemblyReference.cache
+C:\Development\13_05-2012\ChilliesApplication\GenCode128\obj\Debug\GenCode128.dll
+C:\Development\13_05-2012\ChilliesApplication\GenCode128\obj\Debug\GenCode128.pdb
+D:\Development\PAHANSOFT\C#\chillies\13_05-2012\ChilliesApplication\GenCode128\bin\Debug\GenCode128.dll
+D:\Development\PAHANSOFT\C#\chillies\13_05-2012\ChilliesApplication\GenCode128\bin\Debug\GenCode128.pdb
+D:\Development\PAHANSOFT\C#\chillies\13_05-2012\ChilliesApplication\GenCode128\obj\Debug\GenCode128.dll
+D:\Development\PAHANSOFT\C#\chillies\13_05-2012\ChilliesApplication\GenCode128\obj\Debug\GenCode128.pdb
+D:\Development\PAHANSOFT\C#\Barcode Generator\source\GenCode128\bin\Debug\GenCode128.dll
+D:\Development\PAHANSOFT\C#\Barcode Generator\source\GenCode128\bin\Debug\GenCode128.pdb
+D:\Development\PAHANSOFT\C#\Barcode Generator\source\GenCode128\obj\Debug\GenCode128.dll
+D:\Development\PAHANSOFT\C#\Barcode Generator\source\GenCode128\obj\Debug\GenCode128.pdb
